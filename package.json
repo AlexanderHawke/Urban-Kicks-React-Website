@@ -1,7 +1,7 @@
 {
   "name": "urban-kicks",
   "version": "0.1.0",
-  "homepage": "http://AlexanderHawke.github.io/urbankicks",
+  "homepage": "https://alexanderhawke.github.io/Urban-Kicks-React-Website/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
