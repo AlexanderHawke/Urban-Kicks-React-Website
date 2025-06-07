@@ -10,7 +10,7 @@ import { BrowserRouter as Router, Route, Switch} from 'react-router-dom';
 
 function App() {
   return (
-    <Router basename={process.env.PUBLIC_URL}>
+    <Router basename="/Urban-Kicks-React-Website">
       <div className="App">
         <Navbar />
         <div className="content">
