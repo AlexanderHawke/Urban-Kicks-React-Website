@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Urban-Kicks-React-Website/static/css/main.93f489a1.css",
+    "main.js": "/Urban-Kicks-React-Website/static/js/main.13047faf.js",
+    "static/media/shoe2Image.jpg": "/Urban-Kicks-React-Website/static/media/shoe2Image.658f869ec0e9b8d4dfa2.jpg",
+    "static/media/shoe3Image.jpg": "/Urban-Kicks-React-Website/static/media/shoe3Image.43f53a7aca57301534ec.jpg",
+    "static/media/shoe9Image.png": "/Urban-Kicks-React-Website/static/media/shoe9Image.99769abed1e100da78cf.png",
+    "static/media/shoe10Image.png": "/Urban-Kicks-React-Website/static/media/shoe10Image.4396ab8977bdbfe18b16.png",
+    "static/media/shoe4Image.png": "/Urban-Kicks-React-Website/static/media/shoe4Image.b84f7523171649c602ed.png",
+    "static/media/shoe7Image.png": "/Urban-Kicks-React-Website/static/media/shoe7Image.f2e09d7410352e1db0c6.png",
+    "static/media/shoe8Image.jpg": "/Urban-Kicks-React-Website/static/media/shoe8Image.8e630b6c041a5e06814d.jpg",
+    "static/media/shoe6Image.png": "/Urban-Kicks-React-Website/static/media/shoe6Image.061c36ce972058314503.png",
+    "static/media/welcomePageShoeModel.jpg": "/Urban-Kicks-React-Website/static/media/welcomePageShoeModel.29b980f3e59658a9ad86.jpg",
+    "static/media/shoe1Image.jpg": "/Urban-Kicks-React-Website/static/media/shoe1Image.af14deaa8124b2fd7e64.jpg",
+    "static/media/shoe5Image.jpg": "/Urban-Kicks-React-Website/static/media/shoe5Image.765901ab84ce6c5d3325.jpg",
+    "index.html": "/Urban-Kicks-React-Website/index.html",
+    "main.93f489a1.css.map": "/Urban-Kicks-React-Website/static/css/main.93f489a1.css.map",
+    "main.13047faf.js.map": "/Urban-Kicks-React-Website/static/js/main.13047faf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93f489a1.css",
+    "static/js/main.13047faf.js"
+  ]
+}
