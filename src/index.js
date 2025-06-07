@@ -6,7 +6,7 @@ import App from './App';
 import ShopContextProvider from './ShopContext';
 
 ReactDOM.render(
-  <BrowserRouter basename={process.env.PUBLIC_URL}>
+  <BrowserRouter basename="/Urban-Kicks-React-Website">
     <ShopContextProvider>
         <App />
       </ShopContextProvider>
